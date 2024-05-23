@@ -9,7 +9,7 @@
 
 You can find the code for this project in the following files:
 
-- [Movie-Recommendation.ipynb]()
+- [Movie-Recommendation.ipynb](https://github.com/LasithaAmarasinghe/Movie-Recommendation/blob/main/Movie%20Recommendation.ipynb)
   
 ## Technologies 
 
