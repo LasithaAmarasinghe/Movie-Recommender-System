@@ -2,8 +2,8 @@
 
 ## Overview
 
-- This project uses linear regression to predict the medal count for various countries in the Olympic Games. 
-- This repository contains the code and resources necessary to build and utilize the predictor.
+- When entering a movie title into the input box, this recommendation system swiftly generates suggestions for other movies that may align with the user's preferences.
+- This repository contains the code and resources necessary to build and utilize the recommendation system.
 
 ## Code
 
@@ -18,7 +18,7 @@ You can find the code for this project in the following files:
   * Pandas
   * Numpy
   * Scikit-learn
-  * Seaborn
+  * Regex 
 
 ## Data
 
