@@ -7,7 +7,7 @@
 
 ## Key Features
 
-* Data Exploration: Comprehensive analysis to understand MovieLens 25Mdataset's structure and distribution.
+* Data Exploration: Comprehensive analysis to understand MovieLens 25M dataset's structure and distribution.
 * Search Engine: Building a search engine to find a specific movie title in the dataset. 
 * Recommendation Engine: Creating a recommendation engine to suggest specific movies based on user preferences and movie ratings.
 
