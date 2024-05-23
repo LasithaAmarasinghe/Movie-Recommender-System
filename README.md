@@ -13,8 +13,7 @@
 
 ## Code
 
-You can find the code for this project in the following files:
-
+You can find the code for this project here:
 - [Movie-Recommendation.ipynb](https://github.com/LasithaAmarasinghe/Movie-Recommendation/blob/main/Movie%20Recommendation.ipynb)
   
 ## Technologies/Tools 
@@ -29,5 +28,5 @@ You can find the code for this project in the following files:
 
 ## Data
 
-You can download the files used in this project here:
+You can download the dataset files used in this project here:
 * [MovieLens 25M dataset.](https://grouplens.org/datasets/movielens/25m/)
