@@ -1,4 +1,6 @@
-# Movie-Recommendation-System
+# Movie-Recommender-System
+
+![](https://github.com/LasithaAmarasinghe/Movie-Recommendation-System/assets/106037441/67844ce1-e550-43c6-a98d-f0801243a1ea)
 
 ## Overview
 
