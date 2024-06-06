@@ -13,6 +13,21 @@
 - **Search Engine**: Building a search engine to find a specific movie title in the dataset. 
 - **Recommendation Engine**: Creating a recommendation engine to suggest specific movies based on user preferences and movie ratings.
 
+## Steps
+
+* Reading in movie data with pandas.
+* Cleaning movie titles with regex.
+* Creating a [TF-IDF](https://www.geeksforgeeks.org/understanding-tf-idf-term-frequency-inverse-document-frequency/) matrix. (Time Frequency-Inverse Document Frequency)
+* Creating a search function.
+* Building an interactive search box with Jupyter.
+* Reading in movie ratings data.
+* Finding users who liked the same movie.
+* Finding how much all users like movies.
+* Creating a recommendation score.
+* Building a recommendation function.
+* Creating an interactive recommendation widget.
+
+
 ## Code
 
 You can find the code for this project here:
