@@ -35,13 +35,13 @@ You can find the code for this project here:
   
 ## Technologies/Tools 
 
-* Jupyter Notebook
+* Jupyter Notebook / [Google Colab](https://colab.research.google.com/)
 * Python 3.10.12
 * Python packages
-  * Pandas
-  * Numpy
-  * Scikit-learn
-  * Regex 
+  * Pandas - `pip install pandas`
+  * Numpy - `pip install numpy`
+  * Scikit-learn - `pip install scikit-learn`
+  * Regex - `pip install regex`
 
 ## Data
 
