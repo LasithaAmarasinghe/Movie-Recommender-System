@@ -5,7 +5,7 @@
 ## Overview
 
 - When a user enters a movie title into the input box, this recommendation system swiftly generates suggestions for other movies that may align with the user's preferences.
-- This repository contains the code and resources necessary to build and utilize the recommendation system.
+- This repository contains all the codes and resources used to build and utilize the recommendation system.
 
 ## Key Features
 
